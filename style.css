@@ -77,3 +77,44 @@ h1,{
      #blink{
         text-decoration: blink;
      } */
+
+     /*LEADING/ line Height  */
+     /* p{
+      line-height: 60px;
+     } */
+
+     /* LETTER AND WORD SPACING */
+     /* h1{
+      word-spacing: -5px;
+     } */
+
+
+     /* letter spacing */
+     /* h1{
+      letter-spacing: -3px;
+     } */
+
+     /* TEXT ALIGN */
+     /* h1{
+      text-align: center;
+     }
+     p{
+      text-align: justify;
+     } */
+
+     /* VERTICAL ALIGNMENT */
+     /* img{
+      vertical-align:middle;
+     } */
+
+     /* TEXT INDENT */
+     p{
+      text-indent: 50px;
+     }
+
+
+
+
+
+
+
