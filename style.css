@@ -1,0 +1,79 @@
+/* FONT FAMILY */
+/* h1{
+font-family: cursive;
+}
+
+h1,{
+    font-family: Arial, Verdana, sans-serif;
+}
+.credits {
+    font-family: "Courier New", Courier, 
+    monospace;} */
+
+    /* FONT SIZE */
+    /* pixels */
+    /* p{
+        font-size: 120px;
+    } */
+    /* percentage */
+    /* p{
+        font-size:400%;
+    } */
+
+    /* default values */
+/* 
+    p{
+        font-size: x-large;
+    } */
+    /* FONT FACE */
+    /* @font-face {
+        font-family: 'test';
+        src: url('./fonts/Changa/static/Changa-Bold.ttf');
+    }
+    h1{
+        font-family: test;
+    } */
+     /* FONT WEIGHT */
+     /* p{
+        font-weight: 800;
+     } */
+
+     /* FONT STYLE */
+     /* h1{
+        font-style: italic;
+     } */
+
+     /* using id selector and compering 3 style */
+     /* #normal{
+        font-style: normal;
+     }
+     #italic{
+        font-style: italic;
+     }
+     #oblique{
+        font-style: oblique;
+     } */
+
+     /* TEXT TRANSFORMATION */
+     /* hello guys<=lowercase*/
+     /* HELLO GUYS<=uppercase*/
+     /* Hello Guys How are you doing?<=Capitalized */
+     /* h1{
+        text-transform: capitalize;
+     } */
+
+     /* TEXT DECORATION */
+     /* #underline{
+        text-decoration:underline ;
+
+     }
+
+     #overline{
+        text-decoration: overline;
+     }
+     #line-through{
+        text-decoration: line-through;
+     }
+     #blink{
+        text-decoration: blink;
+     } */
