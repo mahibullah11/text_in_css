@@ -108,9 +108,54 @@ h1,{
      } */
 
      /* TEXT INDENT */
-     p{
+     /* p{
       text-indent: 50px;
+      text-align: justify;
+     } */
+
+     /* TEXT SHADOW */
+    /* p{
+      background-color:#eeeeee;
+      color: #666666;
+      text-shadow: 1px 1px 0px black;
+    } */
+
+    /* FIRST LETTER AND LINE */
+    /* p::first-letter{
+      color: red;
+    }
+    p::first-line{
+      color: blue;
+    } */
+     /* STYLING LINGS */
+     /* a:link{
+      color: red;
      }
+     a:visited{
+      color: green;
+     } */
+
+     /* RESPONDING TO UESR */
+     /* hover */
+     /* input.btn:hover{
+      background-color: wheat;
+     }
+     input.btn:active{
+     background-color: red;
+     }
+      */
+     /* input.btn:focus{
+      background-color: aqua;
+     }
+
+     input.textbox:focus{
+      background-color: black;
+      color: white;
+     } */
+
+
+
+
 
 
 
