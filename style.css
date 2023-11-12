@@ -153,6 +153,35 @@ h1,{
       color: white;
      } */
 
+     /* ATTRIBUTE SELECTORS */
+     /* Existence */
+     /* p[test]{
+      color: red;
+     } */
+     /* equality */
+     /* p[name="hello"]{
+      color: blue;
+     } */
+
+     /* Space */
+     /* p[name~='hello']{
+      color: fuchsia;
+     } */
+
+     /* prefix */
+     /* p[test^="hello"]{
+      color: gold;
+     } */
+
+     /* substring */
+     /* p[test*="ll"]{
+      color: red;
+     } */
+
+     /* suffix */
+     /* p[test$="l"]{
+      color: fuchsia;
+     } */
 
 
 
